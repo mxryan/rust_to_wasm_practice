@@ -1,0 +1,1 @@
+#rust_to_wasm_practice
